@@ -1,2 +1,2 @@
 # Homework2
-Print ("hello world")
+submited homework up though working through one sheet 
